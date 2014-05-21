@@ -44,7 +44,7 @@ At the end of the semester, you will submit the following materials.
 information for the company and your supervisor, dates, and number of
 units
 2. Your time and activities log demonstrating that you have fulfilled
-the time requirement.
+the 180 hour time requirement.
 3. A two-page summary of your intership that highlights your learning
 experiences both valuable and less valuable.  This is important for
 future students.
@@ -60,3 +60,19 @@ internship supervisor to me via email.
 This course is graded on a Credit/No-Credit basis.  Be sure you fill
 this out correctly on the form.
 
+# Finding an internship
+
+This is one of the more challenging aspects of the internship.  It is
+your responsibility to identify and pursue opportunities which will be
+good practice for your entry into the job market.
+
+- Identify the type of experience you want to gain.  Do you want a
+  technical internship, a marketing internship, or something else?  Once
+  you have this is mind you can look for companies doing what you are
+  interested in.
+- Identify possible companies.  Look for companies in the area that are
+  doing the work you are interested in.
+- Reach out to these companies.  Do you know students who have already
+  held internships at these companies?  Can you get an introduction?
+  You can also send a brief and professional email if you do not have a
+  way to get an introduction.
