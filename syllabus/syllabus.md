@@ -53,7 +53,9 @@ future students.
 Submit these files in a single PDF copy to my email or upload to Moodle.
 
 You will also arrange to have a one-page letter of evaluation sent from your
-internship supervisor to me via email.
+internship supervisor to me via email.  This letter should briefly
+discuss the type of work you performed and your performance during the
+internship.
 
 # Grading
 
