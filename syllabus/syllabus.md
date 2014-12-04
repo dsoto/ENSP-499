@@ -21,6 +21,11 @@ There are three requirements for your internship.
 
 ## Internship Agreement
 
+You do not sign up for the internship class in the same way you sign up
+for other classes.  You fill out a form and then we submit it to
+admissions and records.  Admissions and records adds the units to your
+schedule.
+
 - Download form from website, fill in electronically with supervisor,
   print and get signatures.
 - After all signatures are complete, in the office, create a scanned
